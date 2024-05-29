@@ -55,7 +55,11 @@
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
-<p></p>
+<br/>
+
+<h3>Github Trophies:</h3>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ferdyyrahmat&theme=onedark&no-frame=true" alt="Profile Trophy Card" />
+
 <table>
     <tr>
         <td colspan="2">
