@@ -2,10 +2,6 @@
     <h1><img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="auto" width="100%" /></h1>
 </div>
 
-<p>
-    <img align="right" src="https://github.com/ferdyyrahmat/ferdyyrahmat/blob/main/animation_500_kxa883sd.gif" alt="ferdyyrahmat" />
-</p>
-
 <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hallo+%F0%9F%91%8B;Hello+%F0%9F%91%8B;Ni+hao+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Annyeonghaseyo+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B" alt="Typing SVG" />
 </h3>
@@ -16,7 +12,6 @@
 
 - 📫 How to reach me **ferdyyrahmat@gmail.com**
 
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -42,8 +37,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
 </p>
-
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
