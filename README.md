@@ -1,5 +1,13 @@
-## Hi there 👋
-
+<div align="center">
+    <h1><img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="auto" width="100%" /></h1>
+</div>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hallo+%F0%9F%91%8B;Hello+%F0%9F%91%8B;Ni+hao+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Annyeonghaseyo+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B" alt="Typing SVG" />
+</h2>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ferdyyrahmat&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 <!--
 **ferdyyrahmat/ferdyyrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
