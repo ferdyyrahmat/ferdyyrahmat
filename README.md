@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hallo+%F0%9F%91%8B;Hello+%F0%9F%91%8B;Ni+hao+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Annyeonghaseyo+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B" alt="Typing SVG" />
 </h3>
 
-- 👩🏻‍💻 My name is Ferdy, I am Indonesia, welcome to my GitHub home page
+- 👩🏻‍💻 My name is Ferdy, I am Indonesian, welcome to my GitHub home page
   
 - 🌱 I am a web developer working as a freelancer at Rumah Cipta Inovasi Digital company since June 2023.
 
